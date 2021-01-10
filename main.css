@@ -1,0 +1,170 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    font-size: 34px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.foto-perfil {
+    margin-top: 50px;
+}
+
+html body div.navbar {
+    background-color: #2D2D2D!important;
+    text-align: right;
+    height: 118px;
+}
+.cor-contraste {
+    color: #fff;
+}
+
+#nome-candidato {
+    color:  #FC86BF;
+}
+
+.caixa-alta {
+    text-transform: uppercase;
+}
+
+.faixa-header,
+.faixa-info {
+    background-color: #FC86BF;
+}
+
+.faixa-info {
+    min-height: calc(100vh);
+    position: absolute;
+    top: 0px;
+    width: 350px;
+    padding-bottom: 100px;
+}
+
+.conteudo-principal {
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+}
+
+.row-content {
+   margin-left: 350px; 
+}
+
+.titulo-sessao-faixa {
+    text-align: left;
+    padding-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.titulo-sessao-faixa h2 {
+    border-bottom: solid 2px;
+}
+
+.texto-descicao {
+    font-size: 14px;
+    text-align: justify;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.texto-descicao i {
+    font-size: 40px!important;
+    margin-top: 5px;
+}
+
+.texto-descicao a {
+    color: #fff;
+}
+
+.destaque-escuro {
+    color: #2D2D2D!important;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.informacao {
+    margin-bottom: 15px;
+}
+
+.no-paddin-lr {
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+}
+
+.lista-hobbies li {
+    list-style: none;    
+    float: left;
+    margin: 5px;
+    width: auto;
+}
+
+.sessao-conteudo {
+    margin-top: 50px;
+}
+
+.sessao-conteudo .icone {
+    height: 70px;
+    width: 70px;
+    background-color: #2D2D2D;
+    border-radius: 50%;
+}
+.sessao-conteudo .icone i {
+    color: #fff;
+    font-size: 40px!important;
+    margin-top: 15px;
+}
+
+.sessao-conteudo h2 {
+    font-size: 26px;
+    margin-top: 18px;
+    margin-left: 50px;
+}
+
+.timeline {
+    margin-top: 50px;
+    margin-left: 7px;
+    margin-top: -15px;
+}
+
+.timeline h2 {
+    font-weight: bold;
+}
+
+.timeline .ponto-time {
+    height: 40px;
+    width: 40px;
+    border: solid 7px #2D2D2D;
+    border-radius: 50%;
+    margin-top: 20px;
+    background-color: #fff;
+    z-index: 1;
+}
+
+.texto-timeline {
+    padding-right: 50px!important;
+}
+.timeline-linha {
+    border-left: solid 5px #2D2D2D;
+    position: relative;
+    left: -22px;
+}
+
+.texto-timeline {
+    padding-bottom: 80px;
+}
+
+.texto-timeline a {
+     color: #2D2D2D;
+}
+
+.habilidades .texto-timeline {
+    padding-bottom: 25px;
+}
+
+.habilidades .lista-hobbies li {
+    list-style: disc;
+    padding: 0px;
+    margin-left: 30px;
+}
